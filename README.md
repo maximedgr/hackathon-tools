@@ -4,6 +4,11 @@ Welcome to this repository, which aims to provide a comprehensive list of the es
 
 # Tool List  
 
+## **Dev Requirement:**
+- [Node.js](https://nodejs.org/en/download/) is an open-source, cross-platform JavaScript runtime environment.
+- [NPM](https://docs.npmjs.com/) is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
+- [YARN](https://classic.yarnpkg.com/) dependency managment.
+
 ## **Development Environment:** 
 Setting up a proper development environment is crucial for hackathon success. This includes a code editor or IDE, as well as any necessary dependencies and software.  
 - IDE : [Visual Studio Code](https://code.visualstudio.com/download). Don't forget to install extension to help you trough your development journey.
@@ -23,6 +28,7 @@ npm install truffle-contract-size
 ```
 - [Ganache](https://trufflesuite.com/ganache/) Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 - [MetaMask](https://metamask.io/). Crypto Wallet.
+- [OpenZeppelin Contract Wizzard](https://docs.openzeppelin.com/contracts/4.x/wizard) Not sure where to start? Use the interactive generator below to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
 
 ## **Blockchain Test Networks:** 
 It's important to test your smart contracts and other blockchain-related code on a test network before deploying to the main network. Tools such as Ganache, Rinkeby, and Ropsten can be used for this purpose.
@@ -32,7 +38,7 @@ It's important to test your smart contracts and other blockchain-related code on
 - [Ethereum Test Sepolia](https://sepolia.etherscan.io/)
 - [Polygon Testnet Mumbai](https://mumbai.polygonscan.com/)
 
-## **Web Development:***
+## **Web Development:**
 In the development of Dapp it is common to see developers using React and many libraries allowing the integration and use of smart contracts. Here is a list of tools and dependencies that can be used together:
 - [React](https://en.reactjs.org/) A JavaScript library for building user interfaces.
 Create React App is a comfortable environment for learning React, and is the best way to start building a new single-page application in React.
@@ -43,8 +49,21 @@ npm start
 ```  
 - [Web3.js](https://github.com/web3/web3.js) Ethereum JavaScript API
 - [Ethers](https://docs.ethers.org/)
-- [RainbowKit](https://www.rainbowkit.com/) provides a fast, easy and highly customizable way for developers to add a great wallet experience to their application.
-
+- [RainbowKit](https://www.rainbowkit.com/) provides a fast, easy and highly customizable way for developers to add a great wallet experience to their application.  
+You can scaffold a new RainbowKit + wagmi + Next.js app with one of the following commands, using your package manager of choice:
+```
+npm init @rainbow-me/rainbowkit@latest
+# or
+yarn create @rainbow-me/rainbowkit@latest
+# or
+pnpm create @rainbow-me/rainbowkit@latest
+```
+This will prompt you for a project name, generate a new directory containing a boilerplate project, and install all required dependencies.  
+Alternatively, you can manually integrate RainbowKit into your existing project. [See docs](https://www.rainbowkit.com/docs/installation).
+```
+npm install @rainbow-me/rainbowkit wagmi ethers
+```
+- [Vercel](https://vercel.com/) allows you to deploy instantly, scale automatically, and serve personalized content. Link you front-end GitHub repo to host and test your project for free !
 
 
 ## **Blockchain Explorers:** 
@@ -63,6 +82,10 @@ Blockchain explorers are useful for viewing and interacting with the blockchain.
 - [Polygon Mumbai Faucet - Alchemy](https://mumbaifaucet.com/)
 - [Gnosis Faucet](https://gnosisfaucet.com/)
 - [Chainlink Faucet](https://faucets.chain.link/) Get testnet LINK for an account on one of the supported blockchain testnets so you can create and test your own oracle and Chainlinked smart contract.
+
+## **Helpfull tools:**
+- [OpenAI](https://chat.openai.com/)
+- [GitHub](https://github.com/features/copilot)
 
 
 ## **Communication and Collaboration:** 
