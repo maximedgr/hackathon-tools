@@ -8,6 +8,13 @@ Welcome to this repository, which aims to provide a comprehensive list of the es
 - [Node.js](https://nodejs.org/en/download/) is an open-source, cross-platform JavaScript runtime environment.
 - [NPM](https://docs.npmjs.com/) is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
 - [YARN](https://classic.yarnpkg.com/) dependency managment.
+- [Github](https://www.github.com/), you must have a GitHub account to track your dev journey. 
+- [Git commands](https://git-scm.com/docs) you must be confident with the basic git commands to commit your work, create branch, merge... Example :
+```
+git add .
+git commit -m "V1.0"
+git push
+```
 
 ## **Development Environment:** 
 Setting up a proper development environment is crucial for hackathon success. This includes a code editor or IDE, as well as any necessary dependencies and software.  
@@ -84,15 +91,24 @@ Blockchain explorers are useful for viewing and interacting with the blockchain.
 - [Chainlink Faucet](https://faucets.chain.link/) Get testnet LINK for an account on one of the supported blockchain testnets so you can create and test your own oracle and Chainlinked smart contract.
 
 ## **Helpfull tools:**
-- [OpenAI](https://chat.openai.com/)
-- [GitHub](https://github.com/features/copilot)
+- [OpenAI](https://chat.openai.com/) 
+- [GitHub Copilote](https://github.com/features/copilot) AI pair programmer, you can add this extension in VScode.
+- [Grammarly](https://www.grammarly.com/) is a free writing app to make online writing clear and effective.
 
+
+## **Presentation tools:**
+- [Canva](https://www.canva.com/)
+- [Loom](https://www.loom.com/screen-recorder) – Screen Recorder & Screen Capture
+- [LucidChart](https://www.lucidchart.com/)
+- [Figma](https://www.figma.com/) brings together powerful design features you already love and a more efficient workflow to boot. You can design a Website or App for your MVP presentation.
 
 ## **Communication and Collaboration:** 
-Hackathons often involve working in teams, so it is important to have tools that enable effective communication and collaboration. Slack and Zoom are popular choices for this purpose.  
+Hackathons often involve working in teams, so it is important to have tools that enable effective communication and collaboration. Slack, Telegram, Google Drive, Github and Zoom are popular choices for this purpose.  
 
 ## **Project Management:** 
-To stay organized and on track during a hackathon, it is important to use a project management tool. Trello and Asana are popular choices for this purpose.  
+To stay organized and on track during a hackathon, it is important to use a project management tool.
+- [Trello](https://trello.com/)
+- [LucidChart](https://www.lucidchart.com/)
 
 Note: The above list is not exhaustive and other tools may be useful depending on the specific requirements of your project. Feel free to contribute !  
 
