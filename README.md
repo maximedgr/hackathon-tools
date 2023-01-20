@@ -34,6 +34,11 @@ npm install truffle -g
 npm install truffle-contract-size
 ```
 - [Truffle plugin verify](https://www.npmjs.com/package/truffle-plugin-verify) very useful plugin to deploy and verify contract ABI on Etherscan etc.
+```
+npm install -D truffle-plugin-verify
+truffle run verify ContractArtifactName@Contract_address --network networkName [--debug] [--verifiers=etherscan,sourcify]
+```
+
 - [Ganache](https://trufflesuite.com/ganache/) Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 - [MetaMask](https://metamask.io/). Crypto Wallet.
 - [OpenZeppelin Contract Wizzard](https://docs.openzeppelin.com/contracts/4.x/wizard) Not sure where to start? Use the interactive generator below to bootstrap your contract and learn about the components offered in OpenZeppelin Contracts.
