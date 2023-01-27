@@ -100,6 +100,7 @@ Blockchain explorers are useful for viewing and interacting with the blockchain.
 - [OpenAI](https://chat.openai.com/) 
 - [GitHub Copilote](https://github.com/features/copilot) AI pair programmer, you can add this extension in VScode.
 - [Grammarly](https://www.grammarly.com/) is a free writing app to make online writing clear and effective.
+- [Bytecode decompiler](https://ethervm.io/decompile) is an online tool to decompile contract bytecode on ETH mainnet, testnet and BNB chain. 
 
 
 ## **Presentation tools:**
