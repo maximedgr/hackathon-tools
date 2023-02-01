@@ -90,6 +90,9 @@ Blockchain explorers are useful for viewing and interacting with the blockchain.
 - [Ethereum Test Sepolia](https://sepolia.etherscan.io/)
 - [Polygon Testnet Mumbai](https://mumbai.polygonscan.com/)
 
+### How to verify a smart contract on explorer to interract with them
+- [Tutorial](https://www.youtube.com/watch?v=vp_EEhyp0m8 "Verifying Contracts") quick tutorial to explain your how to verify smart contract
+
 ## **Blockchain Testnet faucet:**
 - [Ethereum Goerli Faucet - Alchemy](https://goerlifaucet.com/)
 - [Polygon Mumbai Faucet - Alchemy](https://mumbaifaucet.com/)
