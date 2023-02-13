@@ -105,6 +105,9 @@ Blockchain explorers are useful for viewing and interacting with the blockchain.
 - [Grammarly](https://www.grammarly.com/) is a free writing app to make online writing clear and effective.
 - [Bytecode decompiler](https://ethervm.io/decompile) is an online tool to decompile contract bytecode on ETH mainnet, testnet and BNB chain. 
 
+## ** Education **
+- [Solidity by example](https://solidity-by-example.org/)
+
 
 ## **Presentation tools:**
 - [Canva](https://www.canva.com/)
