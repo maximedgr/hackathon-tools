@@ -97,18 +97,20 @@ Blockchain explorers are useful for viewing and interacting with the blockchain.
 - [Ethereum Goerli Faucet - Alchemy](https://goerlifaucet.com/)
 - [Polygon Mumbai Faucet - Alchemy](https://mumbaifaucet.com/)
 - [Gnosis Faucet](https://gnosisfaucet.com/)
-- [Chainlink Faucet](https://faucets.chain.link/) Get testnet LINK for an account on one of the supported blockchain testnets so you can create and test your own oracle and Chainlinked smart contract. 
+- [Chainlink Faucet](https://faucets.chain.link/) Get testnet LINK for an account on one of the supported blockchain testnets so you can create and test your own oracle and Chainlinked smart contract.
+
+## Data tools related to blockchain
+- [TheGraph](https://thegraph.com/) tool to optimize query related to blockchain event (e.g: deposit, borrow, mint ...) (allow to query data using graphQL)
+- [Dune Analytics](https://dune.com/) Huge SQL databases et dashboards related to on-chain data
 
 ## **Helpfull tools:**
 - [OpenAI](https://chat.openai.com/) 
 - [GitHub Copilote](https://github.com/features/copilot) AI pair programmer, you can add this extension in VScode.
 - [Grammarly](https://www.grammarly.com/) is a free writing app to make online writing clear and effective.
 - [Bytecode decompiler](https://ethervm.io/decompile) is an online tool to decompile contract bytecode on ETH mainnet, testnet and BNB chain.
-- [TheGraph](https://thegraph.com/) tool to optimize query related to blockchain event (e.g: deposit, borrow, mint ...) (allow to query data using graphQL)
 
 ## **Education:**
 - [Solidity by example](https://solidity-by-example.org/)
-
 
 ## **Presentation tools:**
 - [Canva](https://www.canva.com/)
