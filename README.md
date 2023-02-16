@@ -18,7 +18,7 @@ git push
 
 ## **Development Environment:** 
 Setting up a proper development environment is crucial for hackathon success. This includes a code editor or IDE, as well as any necessary dependencies and software.  
-- IDE : [Visual Studio Code](https://code.visualstudio.com/download). Don't forget to install extension to help you trough your development journey.
+- IDE : [Visual Studio Code](https://code.visualstudio.com/download). Don't forget to install extensions (like [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)) to help you trough your development journey.
 - Online Solidity IDE [Remix](https://remix.ethereum.org/)
 - UNIX CMD [Git Bash](https://git-scm.com/downloads) - Very usefull if you are working on a Windows OS.
 - [Docker](https://www.docker.com/)
@@ -52,6 +52,8 @@ It's important to test your smart contracts and other blockchain-related code on
 - [Polygon Testnet Mumbai](https://mumbai.polygonscan.com/)
 
 ## **Web Development:**
+
+### **Front**
 In the development of Dapp it is common to see developers using React and many libraries allowing the integration and use of smart contracts. Here is a list of tools and dependencies that can be used together:
 - [React](https://en.reactjs.org/) A JavaScript library for building user interfaces.
 Create React App is a comfortable environment for learning React, and is the best way to start building a new single-page application in React.
@@ -77,6 +79,9 @@ Alternatively, you can manually integrate RainbowKit into your existing project.
 npm install @rainbow-me/rainbowkit wagmi ethers
 ```
 - [Vercel](https://vercel.com/) allows you to deploy instantly, scale automatically, and serve personalized content. Link you front-end GitHub repo to host and test your project for free !
+
+### **Back**
+- [Postman](https://www.postman.com/) is a popular API development and testing tool that allows developers to design, develop, and test APIs. With Postman, developers can quickly and easily create API requests, set up test suites, and automate testing workflows.  
 
 
 ## **Blockchain Explorers:** 
